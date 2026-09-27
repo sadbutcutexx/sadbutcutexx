@@ -24,49 +24,49 @@
 **📱 Языки и UI**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-7C3AED?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-9333EA?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-3B82F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 **🗄 Данные и сеть**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SwiftData-7C3AED?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_Data-6D28D9?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/URLSession_·_REST_API-9333EA?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kingfisher_·_SDWebImage-7E22CE?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftData-7F5AF0?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core_Data-5A67D8?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-6366F1?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/URLSession_·_REST_API-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kingfisher_·_SDWebImage-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 **🧠 Подходы и техники**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/async%2Fawait-7C3AED?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocol--Oriented_Programming-6D28D9?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/XCTest_·_Swift_Testing-9333EA?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/async%2Fawait-7AA2F7?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-BB9AF7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol--Oriented_Programming-7F5AF0?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/XCTest_·_Swift_Testing-3B82F6?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 **🐍 Python**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-6D28D9?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-8B5CF6?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-9333EA?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Скрипты_и_автоматизация-7E22CE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Скрипты_и_автоматизация-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 **🧰 Инструменты**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Xcode-7C3AED?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift_Package_Manager-6D28D9?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-7E22CE?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift_Package_Manager-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## 🚀 Проекты
