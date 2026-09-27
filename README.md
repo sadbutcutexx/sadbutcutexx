@@ -78,11 +78,6 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sadbutcutexx&show_icons=true&hide_border=true&border_radius=12&locale=ru&bg_color=12052b&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbutcutexx&layout=compact&hide_border=true&border_radius=12&locale=ru&bg_color=12052b&title_color=c084fc&text_color=e9d5ff" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sadbutcutexx&hide_border=true&border_radius=12&locale=ru&background=12052b&ring=a855f7&fire=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa&stroke=6d28d9" />
 </div>
 
