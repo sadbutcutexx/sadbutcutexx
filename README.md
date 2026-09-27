@@ -7,9 +7,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=sadbutcutexx&color=a855f7&style=flat-square&label=просмотры+профиля" />
-
 </div>
 
 ---
