@@ -74,11 +74,3 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | [**Soon**](https://github.com/sadbutcutexx/) | Короткое описание приложения | Swift, SwiftUI |
-
-## 📊 Статистика
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sadbutcutexx&hide_border=true&border_radius=12&locale=ru&background=12052b&ring=a855f7&fire=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa&stroke=6d28d9" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:C084FC&height=120&section=footer" width="100%" />
